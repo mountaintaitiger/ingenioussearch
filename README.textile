@@ -46,7 +46,7 @@ h2. 技术特点和优点
 * 支持海量请求、大数据量
   系统中全部支持集群化部署、数据分片，可线性扩展。
 * 稳定性高
-  与业内高层次互联网架构一致，已经过多年检验。
+  与业内高层次互联网公司系统架构一致，已经过多年检验。
 * 实时数据秒级更新
 * 搜索响应快
   响应时间在百毫秒级。
@@ -61,3 +61,6 @@ h2. Demo
   !https://github.com/mountaintaitiger/ingenioussearch/blob/master/images/1.png!
   !https://github.com/mountaintaitiger/ingenioussearch/blob/master/images/2.png!
   
+h2. 联系方式
+
+    Email： ingenioussearch@126.com
