@@ -41,5 +41,5 @@ IngeniousSearch搜索技术为客户搭建搜索系统提供技术支持和定�
 ##Demo
    共收集专辑(电影,电视剧)50000+，明星30000+的影视数据，建立类似于爱奇艺、优酷的视频搜索服务。如下为demo截图
 
-![image]("https://github.com/mountaintaitiger/ingenioussearch/blob/master/images/1.jpg)
-![image]("https://github.com/mountaintaitiger/ingenioussearch/blob/master/images/2.jpg)
+![image]("https://github.com/mountaintaitiger/ingenioussearch/blob/master/images/1.png)
+![image]("https://github.com/mountaintaitiger/ingenioussearch/blob/master/images/2.png)
