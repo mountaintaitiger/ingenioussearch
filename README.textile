@@ -1,6 +1,13 @@
 h1. IngeniousSearch
 
     IngeniousSearch搜索技术为客户搭建搜索系统提供技术支持和定制化服务，系统具有高性能、高质量、高扩展性的特点，核心架构和技术国内一流互联网公司具有的水平
+    
+h2. 应用边界
+
+   * 如果数据量少、用户量少、业务逻辑简单， 请直接使用数据库查询
+   * 如果公司为初创公司， 对搜索服务服务要求不高， 请直接使用ElasticSearch
+   * 如果公司为大公司、预算充足， 请组建搜索团队自行研发
+   * 如果数据量和用户量快速增长，业务复杂，需要质量较高的搜索服务，并想自己快速搭建后进行迭代， IngeniousSearch是个不错的选择。
 
 h2. 系统架构
 
@@ -43,12 +50,13 @@ h2. 技术特点和优点
 * 实时数据秒级更新
 * 搜索响应快
   响应时间在百毫秒级。
-* 系统全部采用开源组件实现，支持对客户开放源码
+* 系统全部采用开源组件实现，对客户开放全部源码，有利于客户快速迭代。
 * 相比其他开源搜索系统(ElasticSearch等)，方便进行业务融合。 
 
 h2. Demo
 
   共收集专辑(电影,电视剧)50000+，明星30000+的影视数据，建立类似于爱奇艺、优酷的视频搜索服务。
+  免责声明：数据来源豆瓣开放接口，感谢豆瓣的支持。
   如下为demo截图
   !https://github.com/mountaintaitiger/ingenioussearch/blob/master/images/1.png!
   !https://github.com/mountaintaitiger/ingenioussearch/blob/master/images/2.png!
