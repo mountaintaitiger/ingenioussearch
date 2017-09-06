@@ -63,10 +63,8 @@ h2. Demo
 
 * 共收集专辑(电影,电视剧)50000+，明星30000+的影视数据，建立类似于爱奇艺、优酷的视频搜索服务。
 * 免责声明：数据来源豆瓣开放接口，感谢豆瓣的支持。
-* demo截图
-!https://github.com/mountaintaitiger/ingenioussearch/blob/master/images/1.png!
-!https://github.com/mountaintaitiger/ingenioussearch/blob/master/images/2.png!
-  
+* demo地址: http://47.94.248.49:18010
+
 h2. 联系方式
 
 Email： ingenioussearch@126.com
